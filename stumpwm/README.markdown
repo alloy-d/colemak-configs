@@ -1,6 +1,6 @@
-Colemak-friendly, `wmii`-like Configuration for [`stumpwm`][].
+Colemak-friendly, `wmii`-like Configuration for [`stumpwm`][1].
 
 You'll need to sift through to pick out the Colemak bits you want, but
 it shouldn't be too hard. 
 
-[stumpwm]: http://www.nongnu.org/stumpwm/
+[1]: http://www.nongnu.org/stumpwm/
